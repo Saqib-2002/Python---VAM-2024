@@ -1,0 +1,31 @@
+Python
+list
+tuple
+dictionary
+set
+array methods
+how to made custom libraray
+matplotlib
+numpy
+soundplay
+
+
+Famous Library in Python
+
+mathplotlib
+numpy
+tensorflow
+pandas
+pygame
+keras
+scikit
+scrapy
+pytorch
+beautifulsoap
+
+
+
+
+
+
+
