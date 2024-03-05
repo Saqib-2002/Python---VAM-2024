@@ -65,4 +65,7 @@ data = ["Pawan", "Rohan", "Akshay", "Tripti"]
     Japenense Startup - Evolution.vc.com, Cainz, anotheraddress.jp
 '''
 
-# mySQl - DBA - company profile -> Database Administrator
+# mySQl/sql/oracle,mongodb - DBA - company profile -> Database Administrator
+# adhaar card ,delhi metro -> postgresql
+#  sql - structured query language
+# xampp and wamp are the local environments for database. Download any of em'
