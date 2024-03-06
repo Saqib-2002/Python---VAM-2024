@@ -3,7 +3,7 @@ Python
     Data Analytics -> Solve traffic problem
     Full Stack Web Dev (MERN)
     Digital Marketing
-    Domains - Wanifashion.com
+    Domains - Wanifashion.com 
             - Affiliate Marketing Web -> ridewithAnjali.com
             - spinball.co.in -> mobileApp 
             - aws

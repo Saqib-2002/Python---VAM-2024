@@ -1,0 +1,25 @@
+---CREATE table if NOT exists StudentInfo(Sno int, Name varchar(25), Email text, Mobile text, Age int(4));
+
+---insert into StudentInfo values(1, 'pawan', 'fcdfd', 'fcdgd', 32),(2, 'saqib', 'fcdfd', 'fcdgd', 21), (3, 'zaid', 'fcdfd', 'fcdgd', 20), (4, 'himanshu', 'fcdfd', 'fcdgd', 19), (5, 'anuj', 'fcdfd', 'fcdgd', 20);
+
+---ALTER table StudentInfo ADD Department text;  ---to add col in table.
+---ALTER table StudentInfo RENAME column Age to Stuage; ---Rename the col name
+
+DELETE FROM StudentInfo WHERE Sno = 4;
+Update StudentInfo Set Stuage = 40, Name = "Rohan" Where Stuage = 20;
+---SELECT Name, Stuage FROM StudentInfo
+---Order by
+---ORDER BY Name
+
+---LIMIT 2
+
+--- MIN, MAX
+
+---SELECT *, MIN(Stuage) FROM StudentInfo;
+---SELECT MAX(Stuage) FROM StudentInfo;
+SELECT Count(Name) FROM StudentInfo;
+
+---WHERE NOT Age = 32;
+---WHERE Age > 20 OR name="pawan"
+---WHERE Age = 32 AND (Name = "pawan" AND mobile = "fcdgd");
+---where clause will validate the condition and then return the result.
