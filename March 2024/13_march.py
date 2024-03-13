@@ -65,3 +65,9 @@ ML Techniques/problems -> Supervised -> regression, classification
 ML models -> 
 '''
 
+'''
+Project Management Tools
+    -> Jira
+    -> Github
+    -> Dockers
+'''
