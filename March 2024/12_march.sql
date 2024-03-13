@@ -1,0 +1,2 @@
+-- How to change mysql port no:- 3306
+-- If you want to be a dev ops, than most of the time you'll work on terminal
