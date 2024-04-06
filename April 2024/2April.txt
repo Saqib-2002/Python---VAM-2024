@@ -1,0 +1,6 @@
+Web Scraping -> python -> upWork
+
+Data Analyst -> Research on data -> Find top 100 founder email from LinkedIn
+
+Power Bi projects -> help zomato to grow sales
+                  -> suggest shares
